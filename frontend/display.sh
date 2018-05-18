@@ -1,0 +1,1 @@
+ ng build --prod --output-path D:\coinshipnew\backend\static\ang\ --watch --output-hashing none
